@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\OlehDvyhan\Downloads\SFML-2.6.0-sources\SFML-2.6.0\src\SFML\Main\MainWin32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\OlehDvyhan\Downloads\SFML-2.6.0-sources\SFML-2.6.0\src\SFML\Main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DB014FCB-4716-3E46-A902-0A8D295FE66F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

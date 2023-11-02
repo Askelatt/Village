@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Templates/CPackConfig.cmake.in
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-slns/x64-s/CMakeFiles/3.28.0-rc3/CMakeCCompiler.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-slns/x64-s/CMakeFiles/3.28.0-rc3/CMakeCXXCompiler.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-slns/x64-s/CMakeFiles/3.28.0-rc3/CMakeRCCompiler.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-slns/x64-s/CMakeFiles/3.28.0-rc3/CMakeSystem.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-sources/SFML-2.6.0/CMakeLists.txt
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-sources/SFML-2.6.0/cmake/CompilerOptionsOverride.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-sources/SFML-2.6.0/cmake/Config.cmake
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-sources/SFML-2.6.0/cmake/SFMLConfig.cmake.in
+C:/Users/OlehDvyhan/Downloads/SFML-2.6.0-sources/SFML-2.6.0/cmake/SFMLConfigDependencies.cmake.in
